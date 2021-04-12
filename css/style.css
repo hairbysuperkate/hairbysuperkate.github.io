@@ -48,7 +48,7 @@
     position: absolute;
     top: 0;
     right: 0;
-    width: 25%;
+    width: 350px;
     height: 100%;
     background: var(--side_banner_color);
     z-index: -2;
@@ -93,8 +93,7 @@ header .logo span
 {
   display: flex;
   justify-content: space-between;
-  align-items: center;
-  padding-right: 50px 0;
+  align-items: right;
 }
 .icons .social_media
 {
@@ -104,7 +103,7 @@ header .logo span
 .icons .social_media li
 {
   list-style: none;
-  margin-left: 30px;
+  margin-left: 40px;
 }
 .icons .social_media li img
 {
