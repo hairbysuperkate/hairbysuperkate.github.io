@@ -27,12 +27,8 @@
     --background_logo_color: var(--default_color_1);
 
 }
-.background {
+body {
   background-color: var(--background_color);
-  z-index: -3;
-  position: absolute;
-  top: 0;
-  right: 0;
 }
 .container
 {
