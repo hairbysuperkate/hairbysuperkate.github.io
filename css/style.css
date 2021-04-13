@@ -42,17 +42,7 @@
     padding: 0 100px;
     min-height: 100vh;
 }
-.container:before
-{
-    content: '';
-    position: absolute;
-    top: 0;
-    right: 0;
-    width: 350px;
-    height: 100%;
-    background: var(--side_banner_color);
-    z-index: -2;
-}
+
 .container:after
 {
     content: 'Hair by superkate!';
